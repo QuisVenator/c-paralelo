@@ -2,6 +2,11 @@
 ## Propósito
 Verificar que el entorno esta preparado para ejecutar códigos.
 
+## Compilar
+```sh
+gcc hola-mundo.c -pthread -o hola_mundo
+```
+
 ## Ejecutar
 ```sh
 ./hola_mundo
