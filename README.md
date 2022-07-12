@@ -2,19 +2,11 @@
 En este repositorio estaremos subiendo los ejemplos mostrados en clase y también soluciones a tareas.
 
 ## Compilar un ejemplo
-Para compilar por favor usar los siguientes comandos:
-- Crear una carpeta vacía build
+- Dirigirse a la carpeta del ejemplo
 ```sh
-rm -rf build && mkdir build && cd build
+cd hola_mundo
 ```
-- Preparar archivos para compilación
-```sh
-cmake ..
-```
-- Compilar el código deseado. Por ejemplo para compilar `hola_mundo`:
-```sh
-make hola_mundo
-```
+- Una vez en esta carpeta seguir los comandos concretos del README.md del ejemplo.
 
 ## Ejecutar un programa
 Cada ejemplo o tarea tiene sus propias instrucciones en su directorio. Pero en general se puede ejcutar con:
